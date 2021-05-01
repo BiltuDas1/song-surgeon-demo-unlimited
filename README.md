@@ -28,4 +28,3 @@ Download the Registry file into your Computer
 4. Then Remove all inheritance Permissions from the object, Add > Select a Principal, type `everyone` in the object name box and click OK
 5. Under Basic Permissions choose **Read** (Windows 10) and click OK
 6. Click OK, After clicking OK if you see the following Screen then you are done!
-7.
