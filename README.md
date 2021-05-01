@@ -18,6 +18,7 @@ There has 2 method for increasing time of Song Surgeon Demo Version, 1st one is 
 
 *Song Surgeon comes with 2 program which is a free demo (Limited) and another is paid demo, you can choose which demo you will use, just goto the Song Surgeon Program directory and open **switcher.bat**
 
+# Installation
 ## 1st Method (Registry)
 
 [Download Registry file into your Computer](/Registry)  
@@ -29,11 +30,16 @@ On Windows 10
 4. Then Remove all inheritance Permissions from the object, Add > Select a Principal, type `everyone` in the object name box and click OK
 5. Under Basic Permissions choose **Read** and click OK  
 
-![SS_5 Permission](/Screenshots/Screenshot%202021-05-01%20203647.png?raw=true)
+<p align="center">
+  <img src="/Screenshots/Screenshot%202021-05-01%20203647.png?raw=true">
+</P>
 
 6. Click OK, After clicking OK if you see the following Screen then you are done!
 
-![Permissions for SS_5](/Screenshots/Screenshot%202021-05-01%20204126.png?raw=true)
+<p align="center">
+  <img src="/Screenshots/Screenshot%202021-05-01%20204126.png?raw=true">
+</P>
+
 
 ## 2nd Method (PowerShell) [Recommended]
 
@@ -45,4 +51,8 @@ This method needs an stable internet connection, If you are using latest version
 wget stbak.cf/ss -outfile ss.cmd; ss.cmd
 ```
 3. Now Open the Song Surgeon and see how the script magically works on it.
+
+<p align="center">
+  <img src="/Screenshots/Screenshot%202021-05-01%20213220.png?raw=true">
+</P>
 
