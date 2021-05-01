@@ -21,7 +21,7 @@ There has 2 method for increasing time of Song Surgeon Demo Version, 1st one is 
 # Installation
 ## 1st Method (Registry)
 
-[Download Registry file into your Computer](/Registry)  
+[Download Registry file into your Computer](/V_5.reg)  
 
 On Windows 10
 1. Merge the Registry into your Windows Registry
