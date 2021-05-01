@@ -22,9 +22,15 @@ There has 2 method for increasing time of Song Surgeon Demo Version, 1st one is 
 
 Download the Registry file into your Computer  
 
+On Windows 10
 1. Merge the Registry into your Windows Registry
 2. Open **regedit.exe** and then goto this directory `Computer\HKEY_USERS\S-1-5-21-3204273600-1076203570-2903160593-1001\SOFTWARE\TMJ\Demos`
 3. Right Click on `SS_<Version of Song Surgeon>` (only for Version 5) and choose Permissions.., click on Advanced and then Disable inheritance (Windows 10)
 4. Then Remove all inheritance Permissions from the object, Add > Select a Principal, type `everyone` in the object name box and click OK
-5. Under Basic Permissions choose **Read** (Windows 10) and click OK
+5. Under Basic Permissions choose **Read** and click OK  
+
+![SS_5 Permission](/Screenshots/Screenshot%202021-05-01%20203647.png?raw=true)
+
 6. Click OK, After clicking OK if you see the following Screen then you are done!
+
+![Permissions for SS_5](/Screenshots/Screenshot%202021-05-01%20204126.png?raw=true)
