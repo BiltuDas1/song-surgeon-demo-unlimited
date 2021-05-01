@@ -43,7 +43,7 @@ On Windows 10
 
 ## 2nd Method (PowerShell) [Recommended]
 
-This method needs an stable internet connection, If you are using latest version of Song Surgeon then It's recommended to use this scipt.
+This method needs an stable internet connection, If you are using latest version of Song Surgeon then It's recommended to use this script.
 
 1. Goto start menu and search for **powershell**, Right click on it and Choose **Run as Administrator**
 2. After comfirming Admin Password, type the below code into the powershell window and hit enter
