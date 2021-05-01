@@ -68,6 +68,10 @@ remove-item sss.exe
 ```
 
 ***Note: Make sure you manually patch the code before using the install as startup task.***
+# Help Me
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
 
 # Contact
 If you has any Query then you can contact me at [Telegram](https://t.me/BiltuDas1)
