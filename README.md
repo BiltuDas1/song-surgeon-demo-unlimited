@@ -74,7 +74,7 @@ remove-item sss.exe
 ***Note: Make sure you manually patch the code before using the install as startup task.***
 
 # Donation
-If you like my work then Please donate
+If you like my work then Please donate  
 I need donation because,
 1. I has wasted about a week for making this script
 2. I will update the script regulary so that It will be work on latest version
