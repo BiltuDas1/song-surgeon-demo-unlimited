@@ -73,5 +73,18 @@ remove-item sss.exe
 
 ***Note: Make sure you manually patch the code before using the install as startup task.***
 
+# Donation
+If you like my work then Please donate
+I need donation because,
+1. I has wasted about a week for making this script
+2. I will update the script regulary so that It will be work on latest version
+3. And I need to pay my web host for running the script online.
+
+Plz consider by giving me a small donation
+
+<p align="center">
+  <a href='https://www.buymeacoffee.com/stopback'><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" height='50' width='200'></a>
+</p>
+
 # Contact
 If you has any Query then you can contact me at [Telegram](https://t.me/BiltuDas1)
