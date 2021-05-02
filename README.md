@@ -1,3 +1,7 @@
+[![PSScriptAnalyzer](https://github.com/BiltuDas1/song-surgeon-demo-unlimited/actions/workflows/powershell-analysis.yml/badge.svg)](https://github.com/BiltuDas1/song-surgeon-demo-unlimited/actions/workflows/powershell-analysis.yml)
+[![SL Scan](https://github.com/BiltuDas1/song-surgeon-demo-unlimited/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/BiltuDas1/song-surgeon-demo-unlimited/actions/workflows/shiftleft-analysis.yml)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue.svg)](https://www.buymeacoffee.com/stopback)
+
 # Song Surgeon Unlimited Demo (Crack)
 Song Surgeon was first released in 2007, and is now a decade old... From its first humble beginnings it has grown to be one of the most popular and valuable tools used by musicians – both students and teacher. At last count Song Surgeon has been sold in more than 120 countries worldwide – and by musicians that play 37 different instruments.
 
