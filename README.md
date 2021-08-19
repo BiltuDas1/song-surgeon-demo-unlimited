@@ -85,3 +85,6 @@ Plz consider by giving me a small donation
 <p align="center">
   <a href='https://www.buymeacoffee.com/stopback'><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" height='50' width='200'></a>
 </p>
+
+# Contact
+If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
